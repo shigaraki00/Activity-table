@@ -1,0 +1,40 @@
+table{
+    width: 100%;
+    
+}
+table, th, td{
+    border: 1px solid skyblue;
+    border-collapse: collapse;
+    background-color: black;
+    height: 40px;
+}
+td{
+    text-align: center;
+}
+.red{
+    background-color: aqua;
+}
+.orange{
+    background-color:wheat;
+}
+.blue{
+    background-color: pink;
+}
+.white{
+    background-color: purple;
+}
+.green{
+    background-color: green;
+}
+.gray{
+    background-color: gray;
+}
+.orange1{
+    background-color: orange;
+}
+.violet{
+    background-color: solid violet;
+}
+.yellow{
+    background-color: yellow;
+}
